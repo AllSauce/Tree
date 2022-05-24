@@ -1,2 +1,2 @@
-# Tree
-Java tree implementation
+# Binary-Tree
+Java binary-tree implementation
